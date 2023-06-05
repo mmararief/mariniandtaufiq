@@ -281,20 +281,20 @@
         <div class="column is-12 regular-section" data-aos="fade-up" data-aos-easing="linear">
           <h1 class="title has-text-centered section-title">Lokasi</h1>
           <p class="tempat is-larger has-text-centered">
-            <strong>RM Pondok Kenanga</strong>
+            <strong>BSI Square Kaliabang</strong>
             <br>
-            Jl. Kenanga Raya No.9, RT.001/RW.006A, Jakasampurna,
+            Jl. Lkr. Utara No.8, Perwira
             <br>
-            Kec. Bekasi Barat, Kota Bekasi, Jawa Barat
+            Bekasi Utara, Kota Bks, Jawa Barat 17124
             <br>
           </p>
         </div>
         <div class="section-map" data-aos="fade-up" data-aos-easing="linear">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.1280267408406!2d106.9691569150978!3d-6.246854895478259!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e698d5988a190d9%3A0x22b6a052b0a6a5f3!2sRM.%20Pondok%20Kenanga!5e0!3m2!1sen!2sid!4v1579433583123!5m2!1sen!2sid" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.437460966604!2d107.0156805!3d-6.2058835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e698951a1c56c9f%3A0xba614a42161711ad!2sBSI%20Square%20Kaliabang!5e0!3m2!1sen!2sid!4v1685984165826!5m2!1sen!2sid" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
         </div>
         <div class="space40px"></div>
         <div class="has-text-centered" data-aos="fade-up" data-aos-easing="linear">
-          <a href="https://maps.google.com/maps?ll=-6.246855,106.971346&z=16&t=m&hl=en&gl=ID&mapclient=embed&daddr=RM.%20Pondok%20Kenanga%20Jl.%20Kenanga%20Raya%20No.9%20RT.001%2FRW.006A%2C%20Jakasampurna%20Bekasi%20Barat%2C%20Bekasi%20City%2C%20West%20Java%2017145@-6.2468549,106.9713456" class="button btn-cta" target="_blank" data-aos="zoom-in">
+          <a href="https://maps.app.goo.gl/6e7tzRs7821esveK7" class="button btn-cta" target="_blank" data-aos="zoom-in">
             <i class="far fa-directions"></i>
             &nbsp;&nbsp;Google Maps
           </a>
