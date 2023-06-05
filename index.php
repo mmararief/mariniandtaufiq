@@ -308,7 +308,7 @@
       <div class="container">
         <div class="columns is-multiline">
           <div class="column has-text-centered is-12 prolog">
-            <h1 class="title has-text-centered section-title" data-aos="fade-up" data-aos-easing="linear">Tentang Sherly dan Daeng</h1>
+            <h1 class="title has-text-centered section-title" data-aos="fade-up" data-aos-easing="linear">Tentang Marini dan Taufiq</h1>
 
 
 
