@@ -8,8 +8,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Undangan Pernikahan Marini & Taufiq</title>
 
-  <meta property="og:title" content="Undangan Pernikahan Sherly & Daeng - Sabtu, 21 Maret 2020">
-  <meta property="og:description" content="Undangan Pernikahan Sherly & Daeng - Sabtu, 21 Maret 2020 di RM Pondok Kenanga, Jakasampurna Bekasi">
+  <meta property="og:title" content="Undangan Pernikahan Marini & Taufiq - Sabtu, 21 Maret 2020">
+  <meta property="og:description" content="Undangan Pernikahan Marini & Taufiq - Sabtu, 21 Maret 2020 di RM Pondok Kenanga, Jakasampurna Bekasi">
   <meta property="og:locale" content="id_ID" />
   <meta property="og:image" content="https://sherly.dae.ng/image/sherly-daeng-wedding-thumbnail.png">
   <meta property="og:url" content="http://sherly.dae.ng/index.html">
