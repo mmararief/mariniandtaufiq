@@ -94,7 +94,7 @@
       <!-- End Mobile Nav -->
       <!-- Begin Hero Content-->
       <?php
-      $namaPenerima = isset($_GET['nama']) ? $_GET['nama'] : '';
+      $namaPenerima = isset($_GET['to']) ? $_GET['to'] : '';
       ?>
       <div class="hero-body">
         <div class="container has-text-centered">
