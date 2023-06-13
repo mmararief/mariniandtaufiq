@@ -102,9 +102,9 @@
           <h2 class="title">Marini & Taufiq</h2>
           <h4 class="subtitle tempatwaktu">
 
-            Sabtu, 21 Maret 2020
+            Sabtu, 25 Agustus 2023
             </br>
-            RM Pondok Kenanga, Jakasampurna
+            BSI Square, Kaliabang
             </br>
             Kota Bekasi
 
@@ -138,7 +138,7 @@
             var year = now.getFullYear() + 1;
 
             var nextyear = month + '/' + day + '/' + year + ' 07:07:07';
-            var harih = '08/21/2023 17:00:00';
+            var harih = '08/5/2023 17:00:00';
 
             $('#hitungmundur').countdown({
               date: harih, // TODO Date format: 07/27/2017 17:00:00
@@ -237,8 +237,8 @@
 
             <p class="is-larger has-text-centered">
             <div class="waktu tanggal-hari has-text-centered">Sabtu</div>
-            <div class="waktu tanggal-angka has-text-centered">21</div>
-            <div class="waktu tanggal-bulan has-text-centered">Maret 2023</div>
+            <div class="waktu tanggal-angka has-text-centered">5</div>
+            <div class="waktu tanggal-bulan has-text-centered">Agustus 2023</div>
             </p>
 
           </div>
@@ -247,7 +247,7 @@
             <p class="waktu is-larger has-text-centered">
               Akad Nikah:
               <br>
-              <strong>17.00 WIB</strong>
+              <strong>11.00 WIB</strong>
             </p>
 
           </div>
@@ -257,7 +257,7 @@
             <h1 class="waktu is-larger has-text-centered">
               Resepsi:
               <br>
-              <strong>19.00 - 21.00 WIB</strong>
+              <strong>11.00 - 13.00 WIB</strong>
             </h1>
 
 
@@ -267,7 +267,7 @@
       </div>
       <div class="space40px"></div>
       <div class="main-content has-text-centered" data-aos="fade-up" data-aos-easing="linear">
-        <a href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NGgzdW00NG84dXFwMzcwNXYxbGliNGxzaWggZGFlbmdkb2FuZ0Bt&amp;tmsrc=daengdoang%40gmail.com" target="_blank" class="button has-tooltip btn-cta" data-tooltip="Add to Calendar" target="_blank" data-aos="zoom-in">
+        <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MXMwdGZiMHFiZjZhZXU0aDlzcGI5YnZrOGggYW1tYXJhcmllZjMyMUBt&tmsrc=ammararief321%40gmail.com" target="_blank" class="button has-tooltip btn-cta" data-tooltip="Add to Calendar" target="_blank" data-aos="zoom-in">
           <i class="far fa-calendar-plus"></i>
           &nbsp;&nbsp;Google Calendar
         </a>
